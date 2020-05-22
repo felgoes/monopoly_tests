@@ -3,6 +3,10 @@ Monopoly with Python | Unittest
 Input:
 - Players and properties
 
+Execution:
+
+$ python3 -m unittest
+
 Output:
 - How many matches ended by time out (1000 rounds);
 - How many times does the average take a game;
